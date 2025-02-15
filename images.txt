@@ -1,4 +1,4 @@
---platform=linux/arm64/v8 nginx
+--platform=linux/arm64/v4 nginx
 node:18.20.3
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
