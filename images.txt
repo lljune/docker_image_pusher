@@ -1,4 +1,4 @@
-mongodb/mongodb-community-server:7.0.0-ubi8
+jenkins
 node:18.20.3
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
